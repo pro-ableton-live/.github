@@ -1,6 +1,8 @@
 # Ableton Live
 Ableton Live is a titan, empowering creators to unleash their sonic imaginations. Its intuitive interface, versatile tools, and a vast library of sounds have made it a favorite among musicians of all genres. However, before embarking on a full-fledged Ableton journey, many aspiring artists seek a taste of its capabilities. This is where the Ableton Live trial version comes into play.
 
+[![1242351346567](https://github.com/user-attachments/assets/f0e90077-bbda-404b-ae6c-cd73830cebb1)](https://y.gy/ableton-live)
+
 ## What does the Ableton Live trial version offer?
 Ableton Live's trial version comprehensively introduces the software's extensive features, allowing users to explore its potential without financial commitment. For 30 days, aspiring producers can delve into the world of music creation, experimenting with the software's vast array of tools and functionalities.
 
